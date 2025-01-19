@@ -1,0 +1,37 @@
+Input: decimal number is 1
+Output: 
+bi: 1
+hex: 1
+ 
+Input: decimal number is 15
+Output: 
+bi: 1111
+hex: F
+ 
+Input: decimal number is 16
+Output: 
+bi: 10000
+hex: 10
+ 
+Input: decimal number is 31
+Output: 
+bi: 11111
+hex: 1F
+ 
+Input: decimal number is 488
+Output: 
+bi: 111101000
+hex: 1E8
+ 
+Input: decimal number is 1000
+Output: 
+bi: 1111101000
+hex: 3E8
+ 
+Input: decimal number is 99999
+Output: 
+bi: 11000011010011111
+hex: 1869F
+ 
+Input: decimal number is 200000
+Output: The number is larger than 100000.
