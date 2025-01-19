@@ -1,0 +1,17 @@
+    1  jupyter
+    2  /bin/python3 /root/Desktop/Phys129AL/Sec2/sec2.py
+    3  pip install jupyter
+    4  cd PS1
+    5  cd P2
+    6  cd P2
+    7  cd Problem1/
+    8  cd electron_scattering_data/
+    9  chmod +x /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_file_remove.sh
+   10  /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_file_remove.sh
+   11  chmod +x /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_file_even_odd.sh
+   12  chmod +x /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_even_odd.sh
+   13  /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_even_odd.sh
+   14  /root/Desktop/Phys129AL/PS1/P2/P2/bash_for_even_odd.sh
+   15  rm -f /root/Desktop/Phys129AL/PS1/P2/P2/Problem1/*index_*.*
+   16  history > history.txt
+   17  history > history.txt
